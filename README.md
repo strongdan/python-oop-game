@@ -1,2 +1,2 @@
-# python-oop-game
-Game created for Raspberry Pi Foundation/FutureLearn course Object-Oriented Programming in Python
+# Object-Oriented Adventure Game
+Created for Raspberry Pi Foundation/FutureLearn course [Object-Oriented Programming in Python](https://www.futurelearn.com/courses/object-oriented-principles/)
